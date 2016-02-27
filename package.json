@@ -1,0 +1,18 @@
+{
+  "name": "mip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cylon-ble": "^0.10.1"
+  },
+  "dependencies": {
+    "cylon-api-http": "^0.4.0",
+    "cylon-keyboard": "^0.16.0"
+  }
+}
